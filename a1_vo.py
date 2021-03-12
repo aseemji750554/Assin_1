@@ -1,3 +1,4 @@
+# atm problem
 am=float(input("Enter the amount "))
 
 print('1 check balence')
